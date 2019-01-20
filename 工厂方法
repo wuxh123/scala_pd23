@@ -67,8 +67,3 @@ object Client extends  App{
   Logger1.createLogger().writeLog()
   Logger2.createLogger().writeLog()
 }
---------------------- 
-作者：清风飏 
-来源：CSDN 
-原文：https://blog.csdn.net/lcg910978041/article/details/53138097 
-版权声明：本文为博主原创文章，转载请附上博文链接！
